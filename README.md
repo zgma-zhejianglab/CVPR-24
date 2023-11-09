@@ -20,13 +20,13 @@ cd Hier-FUN
 
 2. Specify the dataset path in fl_datasets.py, e.g., 
 ```python
-dataset_path = r'xxx/zgma/dataset'
+dataset_path = r'./dataset'
 ```
 
 3. Specify the file path in start_hier-fun.py, e.g,
 ```python
-source_code_path = 'xxx/zgma/Hier-FUN/'
-exp_results_path = 'xxx/Hier-FUN/results/'
+source_code_path = './'
+exp_results_path = './results/'
 python_path = 'xxx/miniconda/envs/zgma/bin/python3'
 ```
 
